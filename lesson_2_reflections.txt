@@ -24,4 +24,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+-The pros are speeding up the progress or helping merge when you forgot to. The cons are git will not know when to merge in certain areas and will output errors. It can merge when it is not supposed which will cause all kinds of issues. It is not that sophisticated to understand when to merge and what to merge. 
+
 
