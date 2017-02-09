@@ -10,14 +10,16 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-The staging area can be used to show the difference between the working direc (and staging area) or the staging area and respository. With this you can see what changes are made and commit. 
+-The staging area can be used to show the difference between the working direc (and staging area) or the staging area and respository. With this you can see what changes are made and commit. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-Branches are helpful for organizing new features that you want to either add in the future or test. While working on a branch of your code you can continue on your original project and merge them with the branch in the future if you decide to added certains changes from any of the branches you added. 
+-Branches are helpful for organizing new features that you want to either add in the future or test. While working on a branch of your code you can continue on your original project and merge them with the branch in the future if you decide to added certains changes from any of the branches you added. 
 
 How do the diagrams help you visualize the branch structure?
+
+-They help by showing the the parent of each commit until the commit that has no parent is shown. It also helps show you the structure of branches and understanding what each branch has in it (commits). 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
