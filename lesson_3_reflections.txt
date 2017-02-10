@@ -8,18 +8,16 @@ automatically stay up-to-date with your remote repository?
 
     - Adding changes autmatically can add to many changes, give you changes that you don't need present and cant effect your work in a negative way. Have it manually lets you chose what changes you want to pull.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    - Forks let you clone a copy of a repository from another users account right on the GitHub site. This will keep the original users respository "original". Clones lets you copy the repository either from the users account to your local (or github) or you can clone copy in the local. Branchs difference is you are not copying but rather creating an "extention" of a project that you can use in multiple ways. Forks and clones difference is mainly the "approach". For example if you want to work on someone project its better to fork than clone because that way the origin of the project is still visible or "credited" to the original author/maker
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     Fill in your answer here
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
     Fill in your answer here
 
