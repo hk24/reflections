@@ -1,12 +1,14 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    - I would use a remotre repository in situations where I will be developing with others or where I am working on a project with frequent commits. Also a project I'd like to share public. 
+    - I would use a remotre repository in situations where I will be developing with others or where 
+    I am working on a project with frequent commits. Also a project I'd like to share public. 
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    - Adding changes autmatically can add to many changes, give you changes that you don't need present and cant effect your work in a negative way. Have it manually lets you chose what changes you want to pull.
+    - Adding changes autmatically can add too many changes or give you changes that you don't need present 
+    that can effect your work in a negative way. Have it manually lets you chose what changes you want to pull.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
