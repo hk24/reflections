@@ -21,7 +21,7 @@ stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    - I would save my project files each logical build and send it via email or skype. Right now it might be easier to send through skype and add changes myself (even though this would take more time) because I'm still learning Git and GitHub. Once used to GitHub, this would be the easier way to collaborate. Exchanging through skype would be harder for big projects. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
