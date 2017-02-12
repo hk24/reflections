@@ -23,7 +23,15 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
     - I would save my project files each logical build and send it via email or skype. Right now it might be easier to send through skype and add changes myself (even though this would take more time) because I'm still learning Git and GitHub. Once used to GitHub, this would be the easier way to collaborate. Exchanging through skype would be harder for big projects. 
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    - Adding a seperate branch is best when you want to work on feature that you are testing out or features you are not confident will work. By making a branch you are playing "safe" and you can switch through the branches or merge any time you are confident that specific branch should be with the master branch. The benefit of working in a master branch only is you only have a number of logical changes and can check through the history of those commits and make changes if needed rather than switching branches and merging. Also it a lot more faster to have one master branch when working on github. 
+
+
+
+
+
+
+
+
+
